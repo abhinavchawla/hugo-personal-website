@@ -2,23 +2,23 @@
 title = "Contact"
 +++
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [abhinav.chawla.95@gmail.com](mailto:abhinav.chawla.95@gmail.com)
+* Phone: [+91-9945563150](tel:+91-9945563150)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> House Number 529 Sector 15
 >
-> London
+> Faridabad
 >
-> United Kingdom
+> Haryana
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/abhinav.chawla.79/)
+2. [Twitter](https://twitter.com/AbhinavMUFC)
+3. [Instagram](https://www.instagram.com/abc.2910/)
